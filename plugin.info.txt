@@ -1,0 +1,6 @@
+base   authlemonldap
+author David Kreitschmann
+email  david@kreitschmann.de
+date   2014-10-14
+name   authlemonldap plugin
+desc   Authenticate against HTTP Headers via LemonLDAP:NG
